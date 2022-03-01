@@ -1,2 +1,1 @@
-# hello-world
-My first repository
+## Templates for different programming languages
