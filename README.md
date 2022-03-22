@@ -1,6 +1,6 @@
 # Templates for different programming languages
 
-- [C](hello-world.c)
-- [C++](hello-world.cc)
-- [C#](hello-world.cs)
-- [Python](hello-world.py)
+- [C](hello_world.c)
+- [C++](hello_world.cc)
+- [C#](hello_world.cs)
+- [Python](hello_world.py)
