@@ -1,4 +1,6 @@
-# Templates for different programming languages
+# Hello World
+
+Templates for different programming languages:
 
 - [C](hello_world.c)
 - [C++](hello_world.cc)
